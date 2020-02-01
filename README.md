@@ -1,2 +1,2 @@
 # LZW-Compression-java
-lzw compression algorithme
+lzw Algorithm for Text Compression 
